@@ -1,4 +1,4 @@
-# UPI / Credit Card Fraud Detection
+# UPI Fraud Detection
 
 Real-time anomaly detection for UPI and credit/debit card transactions. It combines **behavioural rules** (impossible travel, sudden high-value spikes, transaction bursts) with an **Isolation Forest** model, and ships with a **Streamlit** app for live simulation and stream replay.
 
